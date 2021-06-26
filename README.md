@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey i'm Leo Armejo 👋
 
-<!--
-**Nypeeh/Nypeeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm A Computer Engineer, that has been working as a Front-End developer since Fev/2021.  💻
 
-Here are some ideas to get you started:
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 "Faça sua vida mais Responsiva" 🧠
+
+- 📍 From SP
+- 🚀 My skills: React/Next, Node.js | Javascript, SQL, APIs
+
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-armejo-7ab971203/)](https://www.linkedin.com/in/leonardo-armejo-7ab971203/)
