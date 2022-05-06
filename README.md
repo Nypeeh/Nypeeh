@@ -1,6 +1,6 @@
 # Hey i'm Leo Armejo 👋
 
-I'm A Computer Engineer, that has been working as a Front-End developer since Fev/2021.  💻
+I'm Backend Engineer with 2 years of experience. 💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
