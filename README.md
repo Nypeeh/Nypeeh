@@ -12,4 +12,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 Reach me out 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-armejo-7ab971203/)](https://www.linkedin.com/in/leonardo-armejo-7ab971203/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-armejo/)](https://www.linkedin.com/in/leonardo-armejo/)
